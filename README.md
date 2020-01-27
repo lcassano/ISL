@@ -11,6 +11,7 @@ This is an implementation of the ISL algorithm introduced in:
 
 # Citing.
 If you use ISL in your work, please cite the accompanying paper:
+
 @article{isl,
 	title={{ISL}: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off},
 	author={Cassano, Lucas and Sayed, Ali H},
