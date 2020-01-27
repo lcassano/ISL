@@ -8,3 +8,12 @@ This is an implementation of the ISL algorithm introduced in:
 1) Install bsuite (https://github.com/deepmind/bsuite) with its corresponding dependencies.
 2) Paste the ISL folder inside of the bsuite/baselines directory.
 3) You can now run an ISL agent like any other baseline provided by bsuite.
+
+# Citing.
+If you use ISL in your work, please cite the accompanying paper:
+@article{isl,
+	title={{ISL}: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off},
+	author={Cassano, Lucas and Sayed, Ali H},
+  journal={arXiv preprint arXiv:1909.06293},
+  year={2019}
+}
